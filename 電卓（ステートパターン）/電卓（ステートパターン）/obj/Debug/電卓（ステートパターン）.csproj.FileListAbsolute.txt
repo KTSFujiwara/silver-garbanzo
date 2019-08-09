@@ -1,0 +1,10 @@
+C:\Users\B9104\source\repos\テキスト『C#2017』\電卓（ステートパターン）\電卓（ステートパターン）\bin\Debug\電卓（ステートパターン）.exe.config
+C:\Users\B9104\source\repos\テキスト『C#2017』\電卓（ステートパターン）\電卓（ステートパターン）\bin\Debug\電卓（ステートパターン）.exe
+C:\Users\B9104\source\repos\テキスト『C#2017』\電卓（ステートパターン）\電卓（ステートパターン）\bin\Debug\電卓（ステートパターン）.pdb
+C:\Users\B9104\source\repos\テキスト『C#2017』\電卓（ステートパターン）\電卓（ステートパターン）\obj\Debug\電卓（ステートパターン）.csprojAssemblyReference.cache
+C:\Users\B9104\source\repos\テキスト『C#2017』\電卓（ステートパターン）\電卓（ステートパターン）\obj\Debug\電卓_ステートパターン_.Form1.resources
+C:\Users\B9104\source\repos\テキスト『C#2017』\電卓（ステートパターン）\電卓（ステートパターン）\obj\Debug\電卓_ステートパターン_.Properties.Resources.resources
+C:\Users\B9104\source\repos\テキスト『C#2017』\電卓（ステートパターン）\電卓（ステートパターン）\obj\Debug\電卓（ステートパターン）.csproj.GenerateResource.cache
+C:\Users\B9104\source\repos\テキスト『C#2017』\電卓（ステートパターン）\電卓（ステートパターン）\obj\Debug\電卓（ステートパターン）.csproj.CoreCompileInputs.cache
+C:\Users\B9104\source\repos\テキスト『C#2017』\電卓（ステートパターン）\電卓（ステートパターン）\obj\Debug\電卓（ステートパターン）.exe
+C:\Users\B9104\source\repos\テキスト『C#2017』\電卓（ステートパターン）\電卓（ステートパターン）\obj\Debug\電卓（ステートパターン）.pdb
